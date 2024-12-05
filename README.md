@@ -2,7 +2,6 @@
 ## Flutter , System Programmer (Rust)
 ## Ethical Hacker (Malware Developer and Red Team Operator)
   
-##  Ethical Hacking
   
 
    ## Flutter
