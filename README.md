@@ -1,5 +1,5 @@
 
-# System Programmer (Rust) and  Ethical Hacker (Red Team )
+# Programmer (Rust) and  Ethical Hacker (Red Teamer )
  
   
 ## System  Programming (Rust)
