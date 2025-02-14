@@ -1,3 +1,3 @@
 
-# Programmer (Rust) and  Ethical Hacker (Red Teamer )
+# Programmer and  Ethical Hacker 
 
